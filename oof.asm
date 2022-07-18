@@ -5,3 +5,5 @@ Maybe some place else
 exec 5 is here
 place 11
 run 232
+exec 01 timed sector userinput()
+ exec 02 timed sector userinput()
