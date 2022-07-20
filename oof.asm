@@ -6,4 +6,8 @@ exec 5 is here
 place 11
 run 232
 exec 01 timed sector userinput()
- exec 02 timed sector userinput()
+exec 02 timed sector userinput()
+exec 03 timed sector userinput()
+exec 04 timed sector userinput()
+exec 05 timed sector userinput()
+
